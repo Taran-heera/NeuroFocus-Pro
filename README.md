@@ -20,9 +20,32 @@
 - 💻 Fully multi-threaded UI
 - 🖥️ Professional Tkinter-based application
 
+- ## ⚙️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Taran-heera/NeuroFocus-Pro.git
+pip install -r requirements.txt
+python neurofocus.py
+
+---
+
+###  **Credits Section:**
+```markdown
+##  Credits
+- EEG Eye State Dataset from UCI Machine Learning Repository
+- OpenCV for webcam integration
+- Pygame for sound alerts
+- Tkinter for GUI
+
+
 ## Requirements
 - Python 3.10+
 - Libraries: `opencv-python`, `tkinter`, `pygame`, `sklearn`, `pandas`, `matplotlib`
 
 ```bash
 pip install opencv-python pygame scikit-learn pandas matplotlib
+
+
+## 📄 License
+This project is licensed under the MIT License - feel free to use, modify, and contribute!
+
